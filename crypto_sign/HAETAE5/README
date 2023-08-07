@@ -1,0 +1,7 @@
+This codes is the reference code for HAETAE (Hyperball bimodAl modulE rejecTion signAture schemE).
+
+This code is v0.9.
+The followings will be updated in v1.0:
+(1) Discretized Hyperball sampling
+(2) Check singular value of secret key
+(3) rANS encoding

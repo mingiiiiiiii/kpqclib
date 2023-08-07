@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rolloI_256.dir/main.c.o -o /home/mingiiiiiiii/KPQClean_0728/KPQClean/crypto_kem/Layered_ROLLO/Reference_implementation_221201/bin/rolloI_256  /home/mingiiiiiiii/KPQClean_0728/KPQClean/crypto_kem/Layered_ROLLO/Reference_implementation_221201/script/preprocessing/../../bin/librbc.a 
