@@ -94,4 +94,15 @@ Try after fixing the ```randombytes``` functions into fixed values. We left them
 |SOLMAE 512|S|S|S|O||
 |SOLMAE 1024|S|S|S|O||
 
+## Contact
+YongRyeol Choi: mike0726@kookmin.ac.kr
+MinGi Kim: mingi1684@kookmin.ac.kr
+Seog Chung Seo: scseo@kookmin.ac.kr
+
+### Contributors
+(Undergraduate Student)YongRyeol Choi
+(Undergraduate Student)MinGi Kim
+(Ph.D. Student)YoungBeom Kim
+(LG U+ Staff)JinGyo Song
+(Professor)Seog Chung Seo
 
