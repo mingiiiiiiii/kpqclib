@@ -6,6 +6,8 @@ We provide all of [KPQC](https://www.kpqc.or.kr/competition.html) Competition Al
 
 All OpenSSL dependencies are removed, and we used cryptographic algorithms in PQClean.
 
+For details see this [paper](https://ieeexplore.ieee.org/document/10418235)
+
 ### To Do List
 * Update some codes into latest reference code
 * Make auto building script
